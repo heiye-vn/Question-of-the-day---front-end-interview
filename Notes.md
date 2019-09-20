@@ -69,7 +69,7 @@
    </body>
    ```
 
-   ![before](F:\Question-of-the-day---front-end-interview\BFC\before.png)
+   ![before](https://github.com/heiye-vn/Question-of-the-day---front-end-interview/blob/master/BFC/before.png)
 
    ```html
    <!-- after：让处在同一BFC区域的p元素处于不同的BFC区域 -->
@@ -84,7 +84,7 @@
    </body>
    ```
 
-   ![](F:\Question-of-the-day---front-end-interview\BFC\after.png)
+   ![](https://github.com/heiye-vn/Question-of-the-day---front-end-interview/blob/master/BFC/after.png)
 
 2. 解决浮动定位（让浮动元素与周围元素等高）
 
@@ -109,7 +109,7 @@
  </div>
 ```
 
-![](F:\Question-of-the-day---front-end-interview\BFC\before2.png)
+![](https://github.com/heiye-vn/Question-of-the-day---front-end-interview/blob/master/BFC/before2.png)
 
 ```html
 <!-- after -->
@@ -133,4 +133,4 @@
  </div>
 ```
 
-![](F:\Question-of-the-day---front-end-interview\BFC\after2.png)
+![](https://github.com/heiye-vn/Question-of-the-day---front-end-interview/blob/master/BFC/after2.png)
